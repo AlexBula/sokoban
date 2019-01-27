@@ -7,7 +7,7 @@
 * $ - box
 * \# - wall
 * . - storage 
-* (space) \- floot
+* (space) \- floor
 
 #### Additional informations 
 Steering via WSAD keys. 
