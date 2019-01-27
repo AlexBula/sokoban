@@ -10,9 +10,9 @@
 * (space) \- floor
 
 #### Additional informations 
-Steering via WSAD keys. 
-Undo last move - U
-Reset the whole game - R
+Steering via WSAD keys.  
+Undo last move - U  
+Reset the whole game - R   
 
 #### Running
 
